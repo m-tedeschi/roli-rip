@@ -1,3 +1,3 @@
-<h1 align="center">roli-rip
+<p style="font-size: 26px" align="center">roli-rip
 Scrapes the current Premium owners of Roblox items from the Rolimon's website
-</h1>
+</p>
